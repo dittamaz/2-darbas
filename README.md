@@ -16,7 +16,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://front-end-by-rimantas.github.io/44-grupe-astronautas/
 
-Design: [Serlokas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
+Design: [Serlokas](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
 
 ## 🎯 Project features/goals
 
