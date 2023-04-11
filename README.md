@@ -16,13 +16,17 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://front-end-by-rimantas.github.io/44-grupe-astronautas/
 
-Design: [Serlokas](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
+Design: [Astronautas](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
 
 ## 🎯 Project features/goals
 
 -   Github pages
 -   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--   SUPER basic HTML/CSS
+- fixed-width content
+-  `<header>`, `<footer>`
+- FontAwesome font/icons
+- Html entities
+- pseudo-elementas
 
 ## 🧰 Getting Started
 
@@ -46,7 +50,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/44-grupe-serlokas.git
+    git clone https://github.com/front-end-by-rimantas/44-grupe-astronautas.git
     ```
 2. Install NPM packages
     ```sh
