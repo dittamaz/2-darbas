@@ -1,0 +1,15 @@
+header {
+    margin: 100px;
+    background-color: yellow;
+    width: 800px;
+    margin-left: calc((100%-800px)/2);
+    }
+    
+    main {
+        display: inline;
+    }
+    
+    footer {
+        display: inline-block;
+    }
+    
