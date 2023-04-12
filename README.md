@@ -22,6 +22,7 @@ Design: [Astronautas](https://cdn.dribbble.com/users/1355613/screenshots/5964475
 
 -   Github pages
 -   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- favicon
 - fixed-width content
 -  `<header>`, `<footer>`
 - FontAwesome font/icons
