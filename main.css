@@ -1,15 +1,18 @@
-header {
-    margin: 100px;
-    background-color: yellow;
+header,
+main,
+footer {
     width: 800px;
-    margin-left: calc((100%-800px)/2);
+    margin-left: calc((100% - 800px) / 2);
+    }
+    header {
+background-color: lightblue;
     }
     
     main {
-        display: inline;
+    background-color: lightcoral;
     }
     
     footer {
-        display: inline-block;
+        background-color: lightgoldenrodyellow;
     }
     
